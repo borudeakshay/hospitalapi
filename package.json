@@ -1,0 +1,22 @@
+{
+  "name": "hospitalapi",
+  "version": "1.0.0",
+  "description": "hospital api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borudeakshay/hospitalapi.git"
+  },
+  "author": "Akshay Borude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borudeakshay/hospitalapi/issues"
+  },
+  "homepage": "https://github.com/borudeakshay/hospitalapi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
